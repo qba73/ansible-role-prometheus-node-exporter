@@ -34,5 +34,5 @@ How to use the role:
 Author Information
 ------------------
 
-[Jakub Jarosz]()https://twitter.com/qba73
+[Jakub Jarosz](https://twitter.com/qba73)
 
