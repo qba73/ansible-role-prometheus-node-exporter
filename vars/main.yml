@@ -1,0 +1,4 @@
+prom_dir: /opt/prometheus/node_exporter
+tarball: node_exporter-{{ exporter_version }}.linux-amd64.tar.gz
+untar_dir: node_exporter-{{ exporter_version }}.linux-amd64
+url_download:  https://github.com/prometheus/node_exporter/releases/download/v{{ exporter_version }}/{{ tarball }}

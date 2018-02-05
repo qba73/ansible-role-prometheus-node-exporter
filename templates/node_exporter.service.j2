@@ -1,0 +1,10 @@
+[Unit]
+Description=Node Exporter
+
+[Service]
+User={{ user }}
+ExecStart={{ prom_dir }}/node_exporter
+
+[Install]
+WantedBy=default.target
+
